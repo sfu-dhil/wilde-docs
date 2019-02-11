@@ -3,7 +3,13 @@
 Introduction
 ============
 
-The Wilde Trials International Archive is a textbase and text-­sharing detection program for analyzing international news reports about the three “gross indecency” trials of Oscar Wilde. Wilde’s three trials were an international media event in 1895 and were front­-page news the world over for nearly a two­ month period, triggering debates about homosexuality, censorship and press standards. The textbase contains news reports printed between April and May 1895 which have been gathered from newspapers around the world in a number of languages. 
+The Wilde Trials International Archive is a textbase and text-­sharing detection
+program for analyzing international news reports about the three “gross indecency”
+trials of Oscar Wilde. Wilde’s three trials were an international media event in
+1895 and were front­-page news the world over for nearly a two­ month period,
+triggering debates about homosexuality, censorship and press standards. The
+textbase contains news reports printed between April and May 1895 which have
+been gathered from newspapers around the world in a number of languages. 
 
 The Wilde Trials Web App currently contains over 1,100 separate news
 reports on the Wilde trials that have been gathered from British,

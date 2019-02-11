@@ -15,7 +15,7 @@ User Manual
    intro
    browse
    searchpage
-   
+
 Administrator Manual
 --------------------
 
@@ -26,7 +26,10 @@ Develper Manual
 ---------------
 
 .. toctree::
+  dev/dev
+  dev/prod
+
+.. toctree::
    :maxdepth: 1
 
    todo
-

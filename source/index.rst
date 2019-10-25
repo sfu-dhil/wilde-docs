@@ -22,7 +22,7 @@ Administrator Manual
 .. toctree::
    :maxdepth: 1
 
-Develper Manual
+Developer  Manual
 ---------------
 
 .. toctree::
